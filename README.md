@@ -38,4 +38,4 @@ Trabajaremos desde Keras con TensorFlow en el backend, con una métrica basada e
 
 En la carpeta R/ se encuentran los scripts desarrollados para la realización de este proyecto, donde los ficheros Conv-Final.R y MLP-Final.R contienen los modelos finales de ambas redes que se obtienen del proceso de elección desarrollado en Conv-Selection.R y MLP-Selection.R.
 
-Además, en la carpeta inst/ disponemos de una memoria en forma de fichero .Rmd donde se explica el proceso seguido para la realización del proyecto
+Además, en la carpeta doc/ disponemos de una memoria en forma de fichero .Rmd donde se explica el proceso seguido para la realización del proyecto, el cual también hemos exportado a .html y a .pdf para facilitar su lectura.

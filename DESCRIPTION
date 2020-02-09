@@ -1,0 +1,16 @@
+Package: MachineLearningR
+Type: Package
+Title: Problema de clasificación de Machine Learning desde la lectura de datos inicial hasta la evaluación en una muestra de test.
+Version: 0.1.0
+Authors: Rafael Jordá
+Maintainer: Rafael Jordá <rafajorda.rj@gmail.com>
+Description: Este paquete cubre los principales pasos de un proyecto de Machine Learning, empezando por el preprocesado de datos, continuando con la construcción de modelos y finalizando con la comparación de los mismos y la elección del mejor.
+Depends: R (>= 3.5.2)
+License: Creative Commons
+Encoding: UTF-8
+LazyData: true
+Imports:
+     caret,
+     tensorflow,
+     keras
+RoxygenNote: 7.0.2
